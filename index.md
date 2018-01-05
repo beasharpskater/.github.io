@@ -1,3 +1,6 @@
 # Welcome to Sharp Skating!
 
-This is an amazing site or something like that.
+**Taking your Skills to the _Edge_!**
+
+![SS LOGO](/Sharp Skating/LOGO-FINAL-NoTM)
+Format: ![Alt Text](URL)
