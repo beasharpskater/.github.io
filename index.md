@@ -2,4 +2,4 @@
 
 **Taking your Skills to the _Edge_!**
 
-![SS LOGO](LOGO-FINAL-NoTM.png)
+! (LOGO-FINAL-NoTM.png)
